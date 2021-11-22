@@ -1,0 +1,13 @@
+.geoFilterCard {
+    max-width: 600px;
+}
+
+.titleCase {
+    text-transform: capitalize;
+}
+
+.locationNames {
+    margin: 5px !important; 
+    text-transform:capitalize;
+    color: cadetblue;
+}

@@ -1,0 +1,13 @@
+.filters, .transactionCard {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.title-case {
+  text-transform: capitalize;
+}
+
+.filterButtons {
+  margin: 5px;
+}
