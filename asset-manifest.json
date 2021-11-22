@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/phonepe/static/css/main.c528bc99.chunk.css",
+    "main.js": "/phonepe/static/js/main.aaaaf842.chunk.js",
+    "main.js.map": "/phonepe/static/js/main.aaaaf842.chunk.js.map",
+    "runtime-main.js": "/phonepe/static/js/runtime-main.6c2809b0.js",
+    "runtime-main.js.map": "/phonepe/static/js/runtime-main.6c2809b0.js.map",
+    "static/js/2.61d8ecc3.chunk.js": "/phonepe/static/js/2.61d8ecc3.chunk.js",
+    "static/js/2.61d8ecc3.chunk.js.map": "/phonepe/static/js/2.61d8ecc3.chunk.js.map",
+    "static/js/3.4e4bcd78.chunk.js": "/phonepe/static/js/3.4e4bcd78.chunk.js",
+    "static/js/3.4e4bcd78.chunk.js.map": "/phonepe/static/js/3.4e4bcd78.chunk.js.map",
+    "index.html": "/phonepe/index.html",
+    "static/css/main.c528bc99.chunk.css.map": "/phonepe/static/css/main.c528bc99.chunk.css.map",
+    "static/js/2.61d8ecc3.chunk.js.LICENSE.txt": "/phonepe/static/js/2.61d8ecc3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c2809b0.js",
+    "static/js/2.61d8ecc3.chunk.js",
+    "static/css/main.c528bc99.chunk.css",
+    "static/js/main.aaaaf842.chunk.js"
+  ]
+}
